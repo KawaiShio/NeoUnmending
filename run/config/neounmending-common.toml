@@ -1,7 +1,0 @@
-[NeoUnmending]
-	#If true, display tooltips after using an anvil; if false, do not display.
-	Tooltips = true
-	#Set the color of tooltips.
-	# Default: 16777045
-	# Range: 0 ~ 16777215
-	Color = 16777045
